@@ -1,0 +1,1 @@
+https://nbviewer.org/github/Abdelrahman-Mohamed-Taha-MAHMOUD/skill-assessments/blob/main/Python%20for%20Data%20Science/gapminder_clean.ipynb
